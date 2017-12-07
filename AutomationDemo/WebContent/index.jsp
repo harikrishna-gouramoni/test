@@ -8,6 +8,7 @@
 </head>
 <body>
 Welcome to Automation App !!
+<br />
 <form action="welcome.jsp">
 Enter your name : <input type="text" name="username">
 
