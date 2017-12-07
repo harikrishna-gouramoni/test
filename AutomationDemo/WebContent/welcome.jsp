@@ -7,11 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-Welcome to Automation App !!
-<form action="welcome.jsp">
-Enter your name : <input type="text" name="username">
 
-<center> <input type="submit" value="Greet Me!"  /></center>
-</form>
+Hello  <b><%= request.getParameter("username") %></b>! to Portal !!
 </body>
 </html>
