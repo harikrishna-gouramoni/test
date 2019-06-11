@@ -8,7 +8,7 @@
 </head>
 <body>
 
-Hello  <b><%= request.getParameter("username") %> ,
+Hello, Welcome to Portal  <b><%= request.getParameter("username") %> ,
 <br />
 Welcome to the CI/ CD automation Portal !!
 </body>
